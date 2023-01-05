@@ -24,7 +24,7 @@ jobs:
       uses: lizheming/doumark-action@master
       with:
         id: trax.long
-        type: music
+        type: book
         format: json
         dir: ./data/douban
   
