@@ -22,7 +22,6 @@ jobs:
         echo "SHA256SUM_OLD=$(SHA256SUM_OLD)" >> $GITHUB_ENV
 
     - name: Fetch Movie Data JSON
-      if: ${{ env.SHA256SUM_NEW != env.SHA256SUM_OLD }}
       uses: lizheming/doumark-action@master
       with:
         id: trax.long
