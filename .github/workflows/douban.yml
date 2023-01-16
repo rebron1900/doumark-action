@@ -17,7 +17,7 @@ jobs:
     - name: Sha256sums Check
       run: |
         SHA256SUM_OLD() {
-          sha256sum data/douban/movie.csv | gawk '{ print $1 }'
+          sha256sum data/douban/movie.json | gawk '{ print $1 }'
         }
         echo "SHA256SUM_OLD=$(SHA256SUM_OLD)" >> $GITHUB_ENV
 
