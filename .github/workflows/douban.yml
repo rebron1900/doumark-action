@@ -29,6 +29,13 @@ jobs:
         type: movie
         format: json
         dir: ./data/douban
+        
+    - name: Sha256sums Compare
+      run: |
+        SHA256SUM_NEW() {
+          sha256sum data/douban/movie.json | gawk '{ print $1 }'
+        }
+        echo "SHA256SUM_NEW=$(SHA256SUM_NEW)" >> $GITHUB_ENV
 
     - name: Fetch Book Data JSON
       if: ${{ env.SHA256SUM_NEW != env.SHA256SUM_OLD }}
