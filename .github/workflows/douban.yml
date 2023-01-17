@@ -2,7 +2,7 @@
 name: Sync Douban Data
 on:
   schedule:
-  - cron: "*/5 * * * *"
+  - cron: "* */6 * * *"
 
   workflow_dispatch:
 
