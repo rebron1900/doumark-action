@@ -14,12 +14,9 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
 
-    - name: Sha256sums Check
+    - name: delete old file
       run: |
-        SHA256SUM_OLD() {
-          sha256sum data/douban/movie.json | gawk '{ print $1 }'
-        }
-        echo "SHA256SUM_OLD=$(SHA256SUM_OLD)" >> $GITHUB_ENV
+        rm -rf ./data
 
     - name: Fetch Movie Data JSON
       uses: lizheming/doumark-action@master
@@ -29,15 +26,8 @@ jobs:
         format: json
         dir: ./data/douban
         
-    - name: Sha256sums Compare
-      run: |
-        SHA256SUM_NEW() {
-          sha256sum data/douban/movie.json | gawk '{ print $1 }'
-        }
-        echo "SHA256SUM_NEW=$(SHA256SUM_NEW)" >> $GITHUB_ENV
 
     - name: Fetch Book Data JSON
-      if: ${{ env.SHA256SUM_NEW != env.SHA256SUM_OLD }}
       uses: lizheming/doumark-action@master
       with:
         id: trax.long
@@ -46,7 +36,6 @@ jobs:
         dir: ./data/douban
 
     - name: Git Add and Commit
-      if: ${{ env.SHA256SUM_NEW != env.SHA256SUM_OLD }}
       uses: EndBug/add-and-commit@v9
       with:
         message: 'chore(data): update douban data'
