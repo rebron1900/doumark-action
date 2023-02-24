@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 217155,
+				"count": 217177,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -191,7 +191,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26740,
+				"count": 26743,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -544,7 +544,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7469,
+				"count": 7470,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -632,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 10882,
+				"count": 10887,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -717,7 +717,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 118900,
+				"count": 118903,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -807,7 +807,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 191829,
+				"count": 191831,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1058,7 +1058,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 23960,
+				"count": 23959,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1145,7 +1145,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87617,
+				"count": 87618,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1312,7 +1312,12 @@
 		"id": 243452765,
 		"is_private": false,
 		"subject": {
-			"rating": null,
+			"rating": {
+				"count": 0,
+				"max": 10,
+				"star_count": 0,
+				"value": 0
+			},
 			"controversy_reason": "",
 			"pubdate": [
 				"August 1995"
