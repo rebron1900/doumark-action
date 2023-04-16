@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 218070,
+				"count": 218083,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -632,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11008,
+				"count": 11009,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -717,7 +717,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 119071,
+				"count": 119072,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -807,7 +807,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 191986,
+				"count": 191987,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1145,7 +1145,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87642,
+				"count": 87643,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1412,9 +1412,7 @@
 			"honor_infos": [],
 			"other_versions_count": 2,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/eeb8f37f5296ae1fbb944718bd5d6880d24aab5c/pics/vendors/migu_book_logo.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "那多 / 2009 / 万卷出版公司",
 			"book_subtitle": "“诅咒系列”第二部",
 			"id": "3728340",
@@ -1458,7 +1456,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
