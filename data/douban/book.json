@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 218721,
+				"count": 218738,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -32,7 +32,14 @@
 				"large": "https://img9.doubanio.com/view/subject/l/public/s6100756.jpg",
 				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s6100756.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
-			"honor_infos": [],
+			"honor_infos": [
+				{
+					"kind": "book",
+					"uri": "douban://douban.com/subject_collection/ECEUHVFIA?type=rank&category=book&rank_type=series_book",
+					"rank": 1,
+					"title": "草月译谭"
+				}
+			],
 			"other_versions_count": 54,
 			"is_show": false,
 			"vendor_icons": [
@@ -191,7 +198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 26847,
+				"count": 26850,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -297,7 +304,14 @@
 				"large": "https://img2.doubanio.com/view/subject/l/public/s3145611.jpg",
 				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s3145611.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
-			"honor_infos": [],
+			"honor_infos": [
+				{
+					"kind": "book",
+					"uri": "douban://douban.com/subject_collection/ECFYHZT5Q?type=rank&category=book&rank_type=series_book",
+					"rank": 7,
+					"title": "新经典文库·巴学园"
+				}
+			],
 			"other_versions_count": 4,
 			"is_show": false,
 			"vendor_icons": [],
@@ -632,7 +646,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11103,
+				"count": 11104,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -717,7 +731,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 119190,
+				"count": 119194,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -732,7 +746,7 @@
 			},
 			"honor_infos": [
 				{
-					"kind": "rank",
+					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/EC3UKGTDY?type=rank&category=book&rank_type=topn_book",
 					"rank": 1,
 					"title": "热门日本文学图书TOP10"
@@ -822,7 +836,7 @@
 			},
 			"honor_infos": [
 				{
-					"kind": "rank",
+					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/ECPMPXJ6Q?type=rank&category=book&rank_type=topn_book",
 					"rank": 2,
 					"title": "豆瓣热门散文图书TOP10"
@@ -1145,7 +1159,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87671,
+				"count": 87673,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1396,7 +1410,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2903,
+				"count": 2904,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
