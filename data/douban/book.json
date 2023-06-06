@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 218865,
+				"count": 218875,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -32,14 +32,7 @@
 				"large": "https://img9.doubanio.com/view/subject/l/public/s6100756.jpg",
 				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s6100756.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
-			"honor_infos": [
-				{
-					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/ECEUHVFIA?type=rank&category=book&rank_type=series_book",
-					"rank": 1,
-					"title": "草月译谭"
-				}
-			],
+			"honor_infos": [],
 			"other_versions_count": 54,
 			"is_show": false,
 			"vendor_icons": [
@@ -304,14 +297,7 @@
 				"large": "https://img2.doubanio.com/view/subject/l/public/s3145611.jpg",
 				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s3145611.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
-			"honor_infos": [
-				{
-					"kind": "book",
-					"uri": "douban://douban.com/subject_collection/ECFYHZT5Q?type=rank&category=book&rank_type=series_book",
-					"rank": 7,
-					"title": "新经典文库·巴学园"
-				}
-			],
+			"honor_infos": [],
 			"other_versions_count": 4,
 			"is_show": false,
 			"vendor_icons": [],
@@ -646,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11128,
+				"count": 11129,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -731,7 +717,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 119222,
+				"count": 119225,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -821,7 +807,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 192134,
+				"count": 192137,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1072,7 +1058,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24113,
+				"count": 24115,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1159,7 +1145,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87675,
+				"count": 87677,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
