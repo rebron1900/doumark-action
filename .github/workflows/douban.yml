@@ -40,3 +40,31 @@ jobs:
       with:
         message: 'chore(data): update douban data'
         add: './data/douban'
+        
+  sync_neodb:
+    name: Douban mark data sync
+    runs-on: ubuntu-latest
+    steps:
+    - name: movie
+      uses: lizheming/doumark-action@master
+      with:
+        id: trax.long
+        type: movie
+        format: neodb
+        neodb_token: ${{ secrets.neodb_token }}
+        
+    - name: Fetch Book Data JSON
+      uses: lizheming/doumark-action@master
+      with:
+        id: trax.long
+        type: book
+        format: neodb
+        neodb_token: ${{ secrets.neodb_token }}
+        
+    - name: music
+      uses: lizheming/doumark-action@master
+      with:
+        id: trax.long
+        type: music
+        format: neodb
+        neodb_token: ${{ secrets.neodb_token }}
