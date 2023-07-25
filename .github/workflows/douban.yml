@@ -42,7 +42,7 @@ jobs:
         add: './data/douban'
         
   sync_neodb:
-    name: Douban mark data sync
+    name: Douban mark data sync to neodb
     runs-on: ubuntu-latest
     steps:
     - name: movie
@@ -53,18 +53,10 @@ jobs:
         format: neodb
         neodb_token: ${{ secrets.neodb_token }}
         
-    - name: Fetch Book Data JSON
+    - name: book
       uses: lizheming/doumark-action@master
       with:
         id: trax.long
         type: book
-        format: neodb
-        neodb_token: ${{ secrets.neodb_token }}
-        
-    - name: music
-      uses: lizheming/doumark-action@master
-      with:
-        id: trax.long
-        type: music
         format: neodb
         neodb_token: ${{ secrets.neodb_token }}
