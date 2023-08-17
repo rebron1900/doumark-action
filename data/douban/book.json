@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 219926,
+				"count": 219943,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -35,9 +35,7 @@
 			"honor_infos": [],
 			"other_versions_count": 54,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "太宰治 / 2009 / 吉林出版集团",
 			"book_subtitle": "",
 			"id": "4011670",
@@ -81,7 +79,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -632,7 +630,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11306,
+				"count": 11311,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -648,9 +646,7 @@
 			"honor_infos": [],
 			"other_versions_count": 8,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "史铁生 / 2006 / 陕西师范大学出版社",
 			"book_subtitle": "史铁生人生笔记",
 			"id": "1003986",
@@ -694,7 +690,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -717,7 +713,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 119423,
+				"count": 119426,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -807,7 +803,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 192339,
+				"count": 192342,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1161,9 +1157,7 @@
 			"honor_infos": [],
 			"other_versions_count": 28,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "余华 / 2004 / 上海文艺出版社",
 			"book_subtitle": "",
 			"id": "1061118",
@@ -1207,7 +1201,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
