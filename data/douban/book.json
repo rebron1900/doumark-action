@@ -19,10 +19,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 220066,
+				"count": 220086,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.3
+				"value": 8.2
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -76,7 +76,7 @@
 			"title": "人间失格",
 			"uri": "douban://douban.com/book/4011670",
 			"subtype": "book",
-			"intro": "第一次，我喝酒喝得如此失态。\n悠悠醒来时，枕头边坐着常子。我躺在那位于本所工匠店二楼的房间里。\n“财尽情亦绝，你说这句话时我还以为是开玩笑，你是认真的？难怪你都不来找我了。管它什么复杂的恩断义绝，我赚钱给你也不行吗？”\n“不行。”\n然后，她也躺下了，两人一夜未眠。\n（收录《樱桃》）",
+			"intro": "《人间失格》是日本著名小说家太宰治最具影响力的小说作品，同时也是糸色望（注：动漫《再见！绝望先生》的主角）老师日常生活必备的读物之一。另外在日本轻小说《文学少女》第一卷中被大量提及。《人间失格》（又名《丧失为人的资格》）发表于1948年，是一部自传体的小说，纤细的自传体中透露出极致的颓废，毁灭式的绝笔之作。太宰治巧妙地将自己的人生与思想，隐藏于主角叶藏的人生遭遇，藉由叶藏的独白，窥探太宰治的内心世界，一个“充满了可耻的一生”。在发表这部作品的同年，太宰治就自杀身亡。",
 			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
@@ -457,7 +457,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6692,
+				"count": 6693,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -632,7 +632,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11331,
+				"count": 11332,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -717,7 +717,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 119438,
+				"count": 119440,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -807,7 +807,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 192355,
+				"count": 192357,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1058,7 +1058,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24239,
+				"count": 24241,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1145,7 +1145,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87717,
+				"count": 87716,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1565,7 +1565,7 @@
 				"count": 210,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7
+				"value": 7.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
