@@ -71,7 +71,7 @@ jobs:
       run: |
         #从 movie1.json 中提取 pages 字段的值
         pages=$(jq '.pages' movie1.json)
-        tvpages2=$(jq '.pages' tv1.json)
+        tvpages=$(jq '.pages' tv1.json)
 
         # 个人使用，新建 WorkDIR ，排除 vercel.json 和 package.json 等
         mkdir neodb
