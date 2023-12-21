@@ -43,10 +43,15 @@ jobs:
         'https://neodb.social/api/me/shelf/complete?category=movie&page=1' \
         -H 'accept: application/json' \
         -H 'Authorization: Bearer ${{ secrets.NEODB_ACCESS_TOKEN }}' > movie1.json
-
+        
+        curl -X 'GET' \
+        'https://neodb.social/api/me/shelf/complete?category=tv&page=1' \
+        -H 'accept: application/json' \
+        -H 'Authorization: Bearer ${{ secrets.NEODB_ACCESS_TOKEN }}' > tv1.json
+        
         # 获取 NeoDB 上的标记数
         REMOTE_COUNT() {
-          jq '.count' movie1.json
+          jq -s '.[0].count + .[1].count' file1.json file2.json
         }
         echo "REMOTE_COUNT=$(REMOTE_COUNT)" >> $GITHUB_ENV
 
@@ -66,6 +71,7 @@ jobs:
       run: |
         #从 movie1.json 中提取 pages 字段的值
         pages=$(jq '.pages' movie1.json)
+        tvpages2=$(jq '.pages' tv1.json)
 
         # 个人使用，新建 WorkDIR ，排除 vercel.json 和 package.json 等
         mkdir neodb
@@ -75,6 +81,18 @@ jobs:
         for ((i=1; i<=$pages; i++)); do
           url="https://neodb.social/api/me/shelf/complete?category=movie&page=$i"
           filename="movie$i.json"
+
+        # 下载文件并保存为对应的文件名
+        curl -X 'GET' "$url" \
+          -H 'accept: application/json' \
+          -H 'Authorization: Bearer ${{ secrets.NEODB_ACCESS_TOKEN }}' > "$filename"
+        done
+
+
+        # 循环下载文件，因为 page 1 已经下载过了，从 2 开始
+        for ((i=1; i<=$tvpages; i++)); do
+          url="https://neodb.social/api/me/shelf/complete?category=tv&page=$i"
+          filename="tv$i.json"
 
         # 下载文件并保存为对应的文件名
         curl -X 'GET' "$url" \
