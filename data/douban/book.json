@@ -1,5 +1,91 @@
 [
 	{
+		"comment": "应该是出版社随便凑出来的书，乱七八糟的，牛头不对马嘴",
+		"rating": {
+			"count": 1,
+			"max": 5,
+			"star_count": 2,
+			"value": 2
+		},
+		"sharing_text": "我的评分：★★ 应该是出版社随便凑出来的书，乱七八糟的，牛头不对马嘴 https://book.douban.com/subject/26291216/ 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/26291216/interest/4124235884",
+		"tags": [],
+		"charts": [],
+		"platforms": [],
+		"vote_count": 0,
+		"create_time": "2024-05-08 08:39:18",
+		"status": "done",
+		"id": 4124235884,
+		"is_private": false,
+		"subject": {
+			"rating": {
+				"count": 14147,
+				"max": 10,
+				"star_count": 3.5,
+				"value": 6.5
+			},
+			"controversy_reason": "",
+			"pubdate": [
+				"2015-2"
+			],
+			"pic": {
+				"large": "https://img1.doubanio.com/view/subject/l/public/s27999290.jpg",
+				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s27999290.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
+			},
+			"honor_infos": [],
+			"other_versions_count": 1,
+			"is_show": false,
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
+			"card_subtitle": "余华 / 2015 / 北京十月文艺出版社",
+			"book_subtitle": "",
+			"id": "26291216",
+			"author": [
+				"余华"
+			],
+			"is_released": true,
+			"vendor_original_price": "",
+			"color_scheme": {
+				"is_dark": true,
+				"primary_color_light": "287253",
+				"_base_color": [
+					0.42962962962962964,
+					0.6428571428571429,
+					0.27450980392156865
+				],
+				"secondary_color": "f4f9f7",
+				"_avg_color": [
+					0.05769230769230769,
+					0.24074074074074067,
+					0.4235294117647059
+				],
+				"primary_color_dark": "1b4c37"
+			},
+			"type": "book",
+			"cover_url": "https://dou.img.lithub.cc/book/26291216.jpg",
+			"min_sale_price": null,
+			"press": [
+				"北京十月文艺出版社"
+			],
+			"pages": [
+				"232"
+			],
+			"sharing_url": "https://book.douban.com/subject/26291216/",
+			"url": "https://book.douban.com/subject/26291216/",
+			"title": "我们生活在巨大的差距里",
+			"uri": "douban://douban.com/book/26291216",
+			"subtype": "book",
+			"intro": "《我们生活在巨大的差距里》是余华自2003年以来的首部杂文集。\n十年来他走遍世界，以亦庄亦谐的笔锋将观察到的社会、时事、文化等现象一一记录剖析，在日常生活的表象下洞见社会固有病灶，对我们生活的时代进行了由外而内深刻反省，亦在与世界的踫撞交锋中，呈现出一个崛起、变迁中的中国。正如余华所说：“这就是我的写作，从中国人的日常生活出发，经过政治、历史、经济、社会、体育、文化、情感、欲望、隐私等等，然后再回到中国人的日常生活之中。”\n· 余华10年首部杂文集\n· 从中国到世界，从文学到社会，以犀利的目光洞见时代病灶，以戏谑的文字戳穿生活表象。\n· 当社会面目全非，当梦想失去平衡，我们还能认识自己吗？",
+			"buy_more_uri": "",
+			"null_rating_reason": "",
+			"article_intros": [],
+			"vendor_sale_price": "",
+			"has_ebook": true
+		}
+	},
+	{
 		"comment": "看一个平行世界中的西游世界，其实可以直接把这本书当职场小说看",
 		"rating": {
 			"count": 1,
@@ -19,7 +105,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 84098,
+				"count": 84277,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -115,7 +201,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 223497,
+				"count": 223513,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -288,7 +374,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27198,
+				"count": 27200,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -467,10 +553,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3879,
+				"count": 3878,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -554,7 +640,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6773,
+				"count": 6772,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -729,7 +815,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12000,
+				"count": 12003,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -815,7 +901,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120162,
+				"count": 120164,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -907,7 +993,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 192992,
+				"count": 192994,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1158,7 +1244,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24522,
+				"count": 24524,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
