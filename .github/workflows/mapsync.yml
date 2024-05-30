@@ -1,4 +1,4 @@
-name: Download and Convert KMZ to GeoJSON
+name: Google To GeoJSON
 
 on:
   schedule:
@@ -33,14 +33,14 @@ jobs:
     - name: Convert KMZ to GeoJSON
       run: |
         mkdir -p data
-        python convert_kmz_to_geojson.py downloaded_file.kmz data/geojson.geojson
+        python convert_kmz_to_geojson.py downloaded_file.kmz data/geojson.json
       shell: bash
 
     - name: Commit and push converted GeoJSON
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add data/geojson.geojson
+        git add data/geojson.json
         git commit -m 'Automated commit of converted GeoJSON'
         git push
       env:
