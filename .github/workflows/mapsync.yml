@@ -1,4 +1,4 @@
-name: Download and Convert KMZ to JSON
+name: Download and Convert KMZ to GeoJSON
 
 on:
   schedule:
@@ -21,7 +21,7 @@ jobs:
     - name: Install required Python packages
       run: |
         python -m pip install --upgrade pip
-        pip install requests
+        pip install shapely requests
 
     - name: Download KMZ file
       run: |
@@ -30,18 +30,18 @@ jobs:
         curl -o $OUTPUT_FILE $URL
       shell: bash
 
-    - name: Convert KMZ to JSON
+    - name: Convert KMZ to GeoJSON
       run: |
         mkdir -p data
-        python convert_kmz_to_json.py downloaded_file.kmz data/geodata.json
+        python convert_kmz_to_geojson.py downloaded_file.kmz data/geojson.geojson
       shell: bash
 
-    - name: Commit and push converted JSON
+    - name: Commit and push converted GeoJSON
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add data/geodata.json
-        git commit -m 'Automated commit of converted JSON'
+        git add data/geojson.geojson
+        git commit -m 'Automated commit of converted GeoJSON'
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
