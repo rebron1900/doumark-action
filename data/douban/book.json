@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 14968,
+				"count": 15004,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -105,7 +105,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87855,
+				"count": 87983,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -126,7 +126,7 @@
 					"title": "豆瓣图书Top250"
 				}
 			],
-			"other_versions_count": 0,
+			"other_versions_count": 1,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
@@ -201,7 +201,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 223781,
+				"count": 223789,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -215,7 +215,7 @@
 				"normal": "https://qnmob3.doubanio.com/view/subject/m/public/s6100756.jpg?imageView2/2/q/80/w/200/h/300/format/jpg/sharpen/1"
 			},
 			"honor_infos": [],
-			"other_versions_count": 54,
+			"other_versions_count": 56,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
@@ -291,7 +291,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 811,
+				"count": 812,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -815,7 +815,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12051,
+				"count": 12052,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -901,7 +901,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120218,
+				"count": 120223,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -993,7 +993,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 193067,
+				"count": 193068,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1244,7 +1244,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24559,
+				"count": 24560,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1665,7 +1665,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1687,
+				"count": 1691,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
