@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 15429,
+				"count": 15463,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -35,10 +35,7 @@
 			"honor_infos": [],
 			"other_versions_count": 1,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "余华 / 2015 / 北京十月文艺出版社",
 			"book_subtitle": "",
 			"id": "26291216",
@@ -82,7 +79,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -105,7 +102,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 90138,
+				"count": 90246,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -128,13 +125,7 @@
 			],
 			"other_versions_count": 1,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
-				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "马伯庸 / 2023 / 湖南文艺出版社",
 			"book_subtitle": "",
 			"id": "36328704",
@@ -178,7 +169,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -201,7 +192,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 223972,
+				"count": 223979,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -217,10 +208,7 @@
 			"honor_infos": [],
 			"other_versions_count": 56,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "太宰治 / 2009 / 吉林出版集团",
 			"book_subtitle": "",
 			"id": "4011670",
@@ -264,7 +252,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -390,12 +378,7 @@
 			"honor_infos": [],
 			"other_versions_count": 3,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
-				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "韩寒 / 2013 / 浙江文艺出版社",
 			"book_subtitle": "",
 			"id": "20425053",
@@ -439,7 +422,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -815,7 +798,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12094,
+				"count": 12096,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -831,10 +814,7 @@
 			"honor_infos": [],
 			"other_versions_count": 8,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "史铁生 / 2006 / 陕西师范大学出版社",
 			"book_subtitle": "史铁生人生笔记",
 			"id": "1003986",
@@ -878,7 +858,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -901,7 +881,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120256,
+				"count": 120262,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -924,9 +904,7 @@
 			],
 			"other_versions_count": 16,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "[日] 村上春树 / 2010 / 南海出版公司",
 			"book_subtitle": "4月～6月",
 			"id": "4742918",
@@ -970,7 +948,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -1244,7 +1222,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24575,
+				"count": 24576,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1260,10 +1238,7 @@
 			"honor_infos": [],
 			"other_versions_count": 8,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "（美）理查德·耶茨 Richard Yates / 2010 / 上海译文出版社",
 			"book_subtitle": "",
 			"id": "4105446",
@@ -1308,7 +1283,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -1347,9 +1322,7 @@
 			"honor_infos": [],
 			"other_versions_count": 29,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "余华 / 2004 / 上海文艺出版社",
 			"book_subtitle": "",
 			"id": "1061118",
@@ -1393,7 +1366,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -1665,7 +1638,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1695,
+				"count": 1696,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
