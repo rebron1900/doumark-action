@@ -4,6 +4,8 @@ import json
 import zipfile
 import xml.etree.ElementTree as ET
 from shapely.geometry import shape, Point, LineString, Polygon, mapping
+from coordTransform_utils import gcj02_to_wgs84
+
 
 def convert_kmz_to_geojson(kmz_file_path, geojson_file_path):
     with zipfile.ZipFile(kmz_file_path, 'r') as kmz:
@@ -37,7 +39,7 @@ def kml_to_geojson(element):
         for point in placemark.iterfind('.//{http://www.opengis.net/kml/2.2}Point'):
             coords = point.find('{http://www.opengis.net/kml/2.2}coordinates').text.strip()
             lon, lat, _ = map(float, coords.split(','))
-            feature["geometry"] = mapping(Point(lon, lat))
+            feature["geometry"] = mapping(Point(gcj02_to_wgs84(lon, lat)[0], gcj02_to_wgs84(lon, lat)[1]))
         
         for linestring in placemark.iterfind('.//{http://www.opengis.net/kml/2.2}LineString'):
             coords = linestring.find('{http://www.opengis.net/kml/2.2}coordinates').text.strip()
