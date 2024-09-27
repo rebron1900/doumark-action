@@ -19,10 +19,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17495,
+				"count": 17511,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 6.6
+				"value": 6.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -105,7 +105,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 102651,
+				"count": 102769,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -129,7 +129,6 @@
 			"other_versions_count": 1,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
 				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
@@ -201,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 224911,
+				"count": 224916,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -374,7 +373,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27306,
+				"count": 27307,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -391,7 +390,6 @@
 			"other_versions_count": 3,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img2.doubanio.com/f/frodo/6bd2847c065ab16da2b96d1660ea25c4ea017cb9/pics/vendors/logo_xmly.png",
 				"https://img2.doubanio.com/f/frodo/af225732b19d0a4c9c6a5e4430cf3fbba2859b43/pics/vendors/migu_book_logo.png",
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
@@ -815,7 +813,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12271,
+				"count": 12274,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -901,7 +899,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120429,
+				"count": 120435,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -993,7 +991,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 193337,
+				"count": 193338,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
