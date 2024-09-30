@@ -19,10 +19,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 17538,
+				"count": 17546,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 6.5
+				"value": 6.6
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -105,7 +105,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 102982,
+				"count": 103092,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 224936,
+				"count": 224943,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -551,10 +551,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3888,
+				"count": 3887,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -638,7 +638,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6821,
+				"count": 6820,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -725,7 +725,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7683,
+				"count": 7684,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -899,7 +899,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120438,
+				"count": 120442,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -991,7 +991,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 193341,
+				"count": 193340,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1159,7 +1159,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9183,
+				"count": 9184,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -1242,7 +1242,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24662,
+				"count": 24663,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1329,7 +1329,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87889,
+				"count": 87886,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
