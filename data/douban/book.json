@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 18833,
+				"count": 18843,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 111563,
+				"count": 111677,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -198,7 +198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 225647,
+				"count": 225653,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -371,7 +371,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27386,
+				"count": 27387,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -548,10 +548,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3894,
+				"count": 3895,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -635,7 +635,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6841,
+				"count": 6842,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -722,7 +722,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7705,
+				"count": 7704,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -810,7 +810,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12475,
+				"count": 12479,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -896,7 +896,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120627,
+				"count": 120629,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1239,7 +1239,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24752,
+				"count": 24753,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1411,7 +1411,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11238,
+				"count": 11239,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
