@@ -130,19 +130,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "\u5ce8\u7709\u5c71"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    103.33258228244483,
-                    29.51867109729386
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "\u5c71\u57ce\u6b65\u9053",
                 "description": "[\u91cd\u5e86\u7279\u79cd\u5175\u5927\u4f5c\u6218\u4e24\u65e5\u6e38\uff1a2](https://1900.live/zhong-qing-te-chong-bing-da-zuo-zhan-liang-ri-you-2/)(https://cdn.1900.live/assets/2024/08/141723562357313.jpg!1800w)"
             },
