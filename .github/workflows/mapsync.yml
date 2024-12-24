@@ -41,7 +41,9 @@ jobs:
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add data/geojson.json
-        if git diff --cached --exit-code > /dev/null; then
+        
+        # 检查暂存区是否有变化
+        if git diff --cached --exit-code; then
           echo "No changes detected. Skipping commit." # 没有检测到变化，跳过提交
         else
           git commit -m 'Automated commit of converted GeoJSON' # 提交更改
