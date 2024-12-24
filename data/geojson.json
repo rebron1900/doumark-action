@@ -88,6 +88,48 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "\u4e5d\u5b50\u5be8",
+                "description": "[\u5ddd\u897f\u7b14\u67b6\u5c71\uff0c\u51ac\u5b63\u96ea\u5c71\u767b\u5c71\u5b9e\u64cd<br>](https://1900.live/chuan-xi-bi-jia-shan-dong-ji-xue-shan-deng-shan-shi-cao/)(https://cdn.1900.live/assets/2024/12/19retouch_2024121614591706.jpg!1800w)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.32379423281355,
+                    31.58288103566512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u7b14\u67b6\u5c71",
+                "description": "[\u5ddd\u897f\u7b14\u67b6\u5c71\uff0c\u51ac\u5b63\u96ea\u5c71\u767b\u5c71\u5b9e\u64cd<br>](https://1900.live/chuan-xi-bi-jia-shan-dong-ji-xue-shan-deng-shan-shi-cao/)(https://cdn.1900.live/assets/2024/12/19retouch_2024121614591706.jpg!1800w)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.29630384273301,
+                    31.592023370194056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u575e\u74e6\u5e03\u9732\u8425\u5730",
+                "description": "[\u5ddd\u897f\u7b14\u67b6\u5c71\uff0c\u51ac\u5b63\u96ea\u5c71\u767b\u5c71\u5b9e\u64cd<br>](https://1900.live/chuan-xi-bi-jia-shan-dong-ji-xue-shan-deng-shan-shi-cao/)(https://cdn.1900.live/assets/2024/12/19retouch_2024121614591706.jpg!1800w)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.33691598301925,
+                    31.583571503689644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "\u5c71\u57ce\u6b65\u9053",
                 "description": "[\u91cd\u5e86\u7279\u79cd\u5175\u5927\u4f5c\u6218\u4e24\u65e5\u6e38\uff1a2](https://1900.live/zhong-qing-te-chong-bing-da-zuo-zhan-liang-ri-you-2/)(https://cdn.1900.live/assets/2024/08/141723562357313.jpg!1800w)"
             },
