@@ -43,13 +43,16 @@ jobs:
         echo "::set-output name=has_changes::$?"
       shell: bash
 
-    - name: Commit and push if changed
-      if: steps.changed.outputs.has_changes != 0
+    - name: Check for changes
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add data/geojson.json
-        git commit -m 'Automated commit of converted GeoJSON'
-        git push
+        if [ -n "$(git status --porcelain)" ]; then
+          git commit -m 'Automated commit of converted GeoJSON'
+          git push
+        else
+          echo "No changes detected. Skipping commit."
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
