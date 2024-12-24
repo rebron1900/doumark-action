@@ -2,8 +2,8 @@ name: Google To GeoJSON
 
 on:
   schedule:
-    - cron: "0 2 * * *"
-  workflow_dispatch:
+    - cron: "0 2 * * *" # 每天凌晨2点执行一次
+  workflow_dispatch: # 允许手动触发
 
 jobs:
   download_and_convert:
@@ -11,29 +11,29 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v2 # 检出代码仓库
 
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.8'
+        python-version: '3.8' # 设置Python版本
 
     - name: Install required Python packages
       run: |
         python -m pip install --upgrade pip
-        pip install shapely requests
+        pip install shapely requests # 安装所需的Python包
 
     - name: Download KMZ file
       run: |
         URL="https://www.google.com/maps/d/kml?mid=103ngIYVR56ypc1eJp_4FntEU0Nc&cid=mp&cv=qNGi_t2KHPo.zh_CN"
         OUTPUT_FILE="downloaded_file.kmz"
-        curl -o $OUTPUT_FILE $URL
+        curl -o $OUTPUT_FILE $URL # 下载KMZ文件
       shell: bash
 
     - name: Convert KMZ to GeoJSON
       run: |
         mkdir -p data
-        python convert_kmz_to_geojson.py downloaded_file.kmz data/geojson.json
+        python convert_kmz_to_geojson.py downloaded_file.kmz data/geojson.json # 转换KMZ到GeoJSON
       shell: bash
 
     - name: Check for changes
@@ -41,11 +41,11 @@ jobs:
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add data/geojson.json
-        if [ -n "$(git status --porcelain)" ]; then
-          git commit -m 'Automated commit of converted GeoJSON'
-          git push
+        if git diff --cached --exit-code > /dev/null; then
+          echo "No changes detected. Skipping commit." # 没有检测到变化，跳过提交
         else
-          echo "No changes detected. Skipping commit."
+          git commit -m 'Automated commit of converted GeoJSON' # 提交更改
+          git push
         fi
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 使用GitHub Token进行认证
