@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19267,
+				"count": 19280,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 113895,
+				"count": 114011,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -125,7 +125,7 @@
 					"title": "豆瓣图书Top250"
 				}
 			],
-			"other_versions_count": 1,
+			"other_versions_count": 2,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
@@ -198,7 +198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 225844,
+				"count": 225855,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -288,7 +288,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 818,
+				"count": 819,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -635,7 +635,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6849,
+				"count": 6850,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -810,7 +810,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12537,
+				"count": 12541,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -896,7 +896,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120668,
+				"count": 120669,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -988,7 +988,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 193544,
+				"count": 193548,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
