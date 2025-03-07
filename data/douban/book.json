@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 19969,
+				"count": 19980,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120451,
+				"count": 120559,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -119,7 +119,7 @@
 			},
 			"honor_infos": [
 				{
-					"kind": "",
+					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
 					"rank": 67,
 					"title": "豆瓣图书Top250"
@@ -198,7 +198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 226356,
+				"count": 226375,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -371,7 +371,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27442,
+				"count": 27443,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -810,7 +810,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12661,
+				"count": 12663,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -896,7 +896,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120784,
+				"count": 120787,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -911,7 +911,7 @@
 			},
 			"honor_infos": [
 				{
-					"kind": "",
+					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/EC3UKGTDY?type=rank&category=book&rank_type=topn_book",
 					"rank": 1,
 					"title": "热门日本文学图书TOP10"
@@ -988,7 +988,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 193693,
+				"count": 193695,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1003,7 +1003,7 @@
 			},
 			"honor_infos": [
 				{
-					"kind": "",
+					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/ECPMPXJ6Q?type=rank&category=book&rank_type=topn_book",
 					"rank": 2,
 					"title": "豆瓣热门散文图书TOP10"
@@ -1326,7 +1326,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87932,
+				"count": 87933,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
