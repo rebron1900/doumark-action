@@ -144,6 +144,71 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "\u5408\u6c5f\u95e8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.63012290006593,
+                    28.770998347448497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u51a0\u82f1\u8857"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.62760833452877,
+                    28.76884282499869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u98de\u96fe\u8c37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.04971599395621,
+                    28.312067824365197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u50f0\u738b\u5c71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.0531893317379,
+                    28.314173027925904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u674e\u5e84\u53e4\u9547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.79756745853489,
+                    28.80511250524458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "\u5c71\u57ce\u6b65\u9053",
                 "description": "[\u91cd\u5e86\u7279\u79cd\u5175\u5927\u4f5c\u6218\u4e24\u65e5\u6e38\uff1a2](https://1900.live/zhong-qing-te-chong-bing-da-zuo-zhan-liang-ri-you-2/)(https://cdn.1900.live/assets/2024/08/141723562357313.jpg!1800w)"
             },
