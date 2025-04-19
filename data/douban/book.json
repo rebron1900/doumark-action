@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20384,
+				"count": 20391,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 124616,
+				"count": 124701,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -198,7 +198,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 226742,
+				"count": 226749,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -215,8 +215,7 @@
 			"other_versions_count": 60,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
 			],
 			"card_subtitle": "太宰治 / 2009 / 吉林出版集团",
 			"book_subtitle": "",
@@ -371,10 +370,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27473,
+				"count": 27472,
 				"max": 10,
 				"star_count": 4,
-				"value": 7.6
+				"value": 7.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -810,7 +809,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12755,
+				"count": 12757,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -896,7 +895,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120879,
+				"count": 120881,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -988,7 +987,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 193786,
+				"count": 193787,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1239,7 +1238,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24851,
+				"count": 24852,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
