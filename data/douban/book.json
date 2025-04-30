@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20481,
+				"count": 20493,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 125531,
+				"count": 125612,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -129,7 +129,6 @@
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/161387ce451872cbf51fcb288cd5ffd1dcd89705/pics/vendors/logo_dedao@2x.png",
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "马伯庸 / 2023 / 湖南文艺出版社",
@@ -198,7 +197,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 226840,
+				"count": 226850,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -215,7 +214,6 @@
 			"other_versions_count": 60,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "太宰治 / 2009 / 吉林出版集团",
@@ -810,7 +808,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12777,
+				"count": 12779,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -827,7 +825,6 @@
 			"other_versions_count": 8,
 			"is_show": false,
 			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png",
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
 			],
 			"card_subtitle": "史铁生 / 2006 / 陕西师范大学出版社",
@@ -896,7 +893,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120899,
+				"count": 120901,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -919,9 +916,7 @@
 			],
 			"other_versions_count": 17,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "[日] 村上春树 / 2010 / 南海出版公司",
 			"book_subtitle": "4月～6月",
 			"id": "4742918",
@@ -965,7 +960,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -988,7 +983,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 193814,
+				"count": 193819,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1239,7 +1234,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24861,
+				"count": 24864,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
