@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20627,
+				"count": 20631,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -64,7 +64,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/26291216.jpg",
-			"min_sale_price": "¥24.5",
+			"min_sale_price": null,
 			"press": [
 				"北京十月文艺出版社"
 			],
@@ -77,7 +77,7 @@
 			"uri": "douban://douban.com/book/26291216",
 			"subtype": "book",
 			"intro": "《我们生活在巨大的差距里》是余华自2003年以来的首部杂文集。\n十年来他走遍世界，以亦庄亦谐的笔锋将观察到的社会、时事、文化等现象一一记录剖析，在日常生活的表象下洞见社会固有病灶，对我们生活的时代进行了由外而内深刻反省，亦在与世界的踫撞交锋中，呈现出一个崛起、变迁中的中国。正如余华所说：“这就是我的写作，从中国人的日常生活出发，经过政治、历史、经济、社会、体育、文化、情感、欲望、隐私等等，然后再回到中国人的日常生活之中。”\n· 余华10年首部杂文集\n· 从中国到世界，从文学到社会，以犀利的目光洞见时代病灶，以戏谑的文字戳穿生活表象。\n· 当社会面目全非，当梦想失去平衡，我们还能认识自己吗？",
-			"buy_more_uri": "douban://douban.com/book/26291216/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 126855,
+				"count": 126943,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -197,7 +197,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 226976,
+				"count": 226978,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -369,7 +369,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27492,
+				"count": 27493,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -808,7 +808,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12808,
+				"count": 12809,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -853,7 +853,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1003986.jpg",
-			"min_sale_price": "¥11.9",
+			"min_sale_price": null,
 			"press": [
 				"陕西师范大学出版社"
 			],
@@ -866,7 +866,7 @@
 			"uri": "douban://douban.com/book/1003986",
 			"subtype": "book",
 			"intro": "史铁生用生动而通俗甚至是优美的语言追寻和探索了关于我们人生的已知和未知的道理：人生、命运、爱情、金钱、道义、信仰，健康的心态、成功的途径和价值、孩子的教育、家庭的纽带，共分六部分，243则。",
-			"buy_more_uri": "douban://douban.com/book/1003986/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -893,7 +893,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120919,
+				"count": 120921,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -983,7 +983,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 193847,
+				"count": 193850,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1033,7 +1033,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1361264.jpg",
-			"min_sale_price": "",
+			"min_sale_price": null,
 			"press": [
 				"皇冠出版社"
 			],
@@ -1046,7 +1046,7 @@
 			"uri": "douban://douban.com/book/1361264",
 			"subtype": "book",
 			"intro": "三毛作品中最膾炙人口的《撒哈拉的故事》﹐\n由１２篇精采動人的散文結合而成﹐\n其中＜沙漠中的飯店＞﹐\n是三毛適應荒涼單調的沙漠生活後﹐\n重新拾筆的第一篇文字﹐\n自此之後﹐三毛便寫出一系列以沙漠為背景的故事﹐\n風靡了全世界的中文讀者。",
-			"buy_more_uri": "douban://douban.com/book/1361264/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -1234,7 +1234,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24879,
+				"count": 24880,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1532,7 +1532,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4817423.jpg",
-			"min_sale_price": "",
+			"min_sale_price": null,
 			"press": [
 				"O'Reilly Media"
 			],
@@ -1545,7 +1545,7 @@
 			"uri": "douban://douban.com/book/4817423",
 			"subtype": "book",
 			"intro": "A complete introduction to the C++ language for the beginning programmer and C programmers transitioning to C++. This book emphasizes a practical, real-world approach, including how to debug, how to make your code understandable to others, and how to understand other people's code. Covers good programming style, C++ syntax (what to use and what not to use), C++ class design, debugging and optimization, and common programming mistakes.",
-			"buy_more_uri": "douban://douban.com/book/4817423/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "暂无评分",
 			"article_intros": [],
 			"vendor_sale_price": "",
