@@ -144,7 +144,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "\u5408\u6c5f\u95e8"
+                "name": "\u5408\u6c5f\u95e8",
+                "description": "[\u5b9c\u5bbe\u674e\u5e84\u3001\u50f0\u738b\u5c71\u4e00\u65e5\u6e38](https://1900.live/yi-bin-li-zhuang-bo-wang-shan-yi-ri-you/)(https://cdn.1900.live/assets/2025/04/12MVIMG_20250407_151921.jpg!1800w)"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +158,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "\u51a0\u82f1\u8857"
+                "name": "\u51a0\u82f1\u8857",
+                "description": "[\u5b9c\u5bbe\u674e\u5e84\u3001\u50f0\u738b\u5c71\u4e00\u65e5\u6e38](https://1900.live/yi-bin-li-zhuang-bo-wang-shan-yi-ri-you/)(https://cdn.1900.live/assets/2025/04/12MVIMG_20250407_151921.jpg!1800w)"
             },
             "geometry": {
                 "type": "Point",
@@ -170,7 +172,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "\u98de\u96fe\u8c37"
+                "name": "\u98de\u96fe\u8c37",
+                "description": "[\u5b9c\u5bbe\u674e\u5e84\u3001\u50f0\u738b\u5c71\u4e00\u65e5\u6e38](https://1900.live/yi-bin-li-zhuang-bo-wang-shan-yi-ri-you/)(https://cdn.1900.live/assets/2025/04/12MVIMG_20250407_151921.jpg!1800w)"
             },
             "geometry": {
                 "type": "Point",
@@ -183,7 +186,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "\u50f0\u738b\u5c71"
+                "name": "\u50f0\u738b\u5c71",
+                "description": "[\u5b9c\u5bbe\u674e\u5e84\u3001\u50f0\u738b\u5c71\u4e00\u65e5\u6e38](https://1900.live/yi-bin-li-zhuang-bo-wang-shan-yi-ri-you/)(https://cdn.1900.live/assets/2025/04/12MVIMG_20250407_151921.jpg!1800w)"
             },
             "geometry": {
                 "type": "Point",
@@ -196,13 +200,41 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "\u674e\u5e84\u53e4\u9547"
+                "name": "\u674e\u5e84\u53e4\u9547",
+                "description": "[\u5b9c\u5bbe\u674e\u5e84\u3001\u50f0\u738b\u5c71\u4e00\u65e5\u6e38](https://1900.live/yi-bin-li-zhuang-bo-wang-shan-yi-ri-you/)(https://cdn.1900.live/assets/2025/04/12MVIMG_20250407_151921.jpg!1800w)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     104.79756745853489,
                     28.80511250524458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u74e6\u5c4b\u5c71",
+                "description": "[\u7528\u6237\u5916\u6d3b\u52a8\u586b\u6ee1\u4e94\u4e00\uff1a\u74e6\u5c4b\u5c71\u7bc7](https://1900.live/yong-hu-wai-huo-dong-tian-man-wu-yi-wa-wu-shan-pian/)(https://cdn.1900.live/assets/2025/05/11IMG_20250430_120144_compressed.jpeg!1800w)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.92913178971013,
+                    29.643534727638897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u52d2\u591a\u66fc\u56e0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.8425073344881,
+                    29.803119847227187
                 ]
             }
         },
