@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 20716,
+				"count": 20719,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 128019,
+				"count": 128097,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -197,7 +197,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227060,
+				"count": 227068,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -736,7 +736,9 @@
 			"honor_infos": [],
 			"other_versions_count": 10,
 			"is_show": false,
-			"vendor_icons": [],
+			"vendor_icons": [
+				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
+			],
 			"card_subtitle": "(日) 东野圭吾 / 2010 / 人民文学出版社",
 			"book_subtitle": "",
 			"id": "4903190",
@@ -780,7 +782,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": false
+			"has_ebook": true
 		}
 	},
 	{
@@ -808,7 +810,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12834,
+				"count": 12836,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -893,7 +895,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 120944,
+				"count": 120947,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -983,7 +985,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 193895,
+				"count": 193897,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1655,7 +1657,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1740,
+				"count": 1741,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
