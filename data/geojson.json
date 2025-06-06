@@ -228,13 +228,56 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "\u52d2\u591a\u66fc\u56e0"
+                "name": "\u52d2\u591a\u66fc\u56e0",
+                "description": "[\u7528\u6237\u5916\u6d3b\u52a8\u586b\u6ee1\u4e94\u4e00\uff1a\u52d2\u591a\u66fc\u56e0\u7bc7](https://1900.live/yong-hu-wai-huo-dong-tian-man-wu-yi-wa-wu-shan-pian-2/)(https://cdn.1900.live/assets/2025/05/1830af5832-5c6c-46c2-b888-ee5c57b46870.jpg!1800w)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     101.8425073344881,
                     29.803119847227187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u5eb7\u5b9a\u60c5\u6b4c\u5e7f\u573a",
+                "description": "[\u7aef\u5348\u518d\u6e38\u5eb7\u5b9a+\u770b\u9ad8\u5c71\u6d77\u5b50<br>](https://1900.live/duan-wu-zai-you-kang-ding-kan-gao-shan-hai-zi/)(https://cdn.1900.live/assets/2025/06/3IMG_20250531_163643_compressed.jpeg!1800w)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.97568120088307,
+                    30.056125976700983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u767d\u6d77\u5b50",
+                "description": "[\u7aef\u5348\u518d\u6e38\u5eb7\u5b9a+\u770b\u9ad8\u5c71\u6d77\u5b50<br>](https://1900.live/duan-wu-zai-you-kang-ding-kan-gao-shan-hai-zi/)(https://cdn.1900.live/assets/2025/06/3IMG_20250531_163643_compressed.jpeg!1800w)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.00629849006953,
+                    29.96798885436193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u91ce\u9a6c\u6d77\u5b50",
+                "description": "[\u7aef\u5348\u518d\u6e38\u5eb7\u5b9a+\u770b\u9ad8\u5c71\u6d77\u5b50<br>](https://1900.live/duan-wu-zai-you-kang-ding-kan-gao-shan-hai-zi/)(https://cdn.1900.live/assets/2025/06/3IMG_20250531_163643_compressed.jpeg!1800w)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.00879913630976,
+                    29.91740075822095
                 ]
             }
         },
