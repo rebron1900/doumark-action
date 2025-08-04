@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21154,
+				"count": 21160,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 134053,
+				"count": 134166,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -121,7 +121,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 63,
+					"rank": 64,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -197,7 +197,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227498,
+				"count": 227507,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -369,7 +369,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27525,
+				"count": 27526,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -546,7 +546,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3906,
+				"count": 3907,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -633,7 +633,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6897,
+				"count": 6898,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -895,7 +895,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121062,
+				"count": 121063,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -985,7 +985,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194011,
+				"count": 194014,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1236,7 +1236,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 24959,
+				"count": 24960,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1323,7 +1323,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87964,
+				"count": 87963,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1657,7 +1657,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1751,
+				"count": 1752,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
