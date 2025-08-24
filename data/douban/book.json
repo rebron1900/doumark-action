@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21312,
+				"count": 21320,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 135856,
+				"count": 135950,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -157,7 +157,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36328704.jpg",
-			"min_sale_price": "¥28.99",
+			"min_sale_price": "¥29.0",
 			"press": [
 				"湖南文艺出版社"
 			],
@@ -197,7 +197,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227655,
+				"count": 227660,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -810,7 +810,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 12999,
+				"count": 13003,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -895,7 +895,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121099,
+				"count": 121101,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -985,7 +985,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194057,
+				"count": 194061,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
