@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21384,
+				"count": 21388,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 136589,
+				"count": 136643,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -157,7 +157,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36328704.jpg",
-			"min_sale_price": "¥29.0",
+			"min_sale_price": "¥27.1",
 			"press": [
 				"湖南文艺出版社"
 			],
@@ -197,10 +197,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227740,
+				"count": 227751,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.2
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -329,7 +329,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30267763.jpg",
-			"min_sale_price": "¥21.9",
+			"min_sale_price": "¥21.3",
 			"press": [
 				"上海社会科学院出版社"
 			],
@@ -415,7 +415,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/20425053.jpg",
-			"min_sale_price": "¥10.9",
+			"min_sale_price": "¥12.0",
 			"press": [
 				"浙江文艺出版社"
 			],
@@ -720,7 +720,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7774,
+				"count": 7775,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -810,7 +810,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13018,
+				"count": 13019,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -895,7 +895,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121121,
+				"count": 121123,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -985,7 +985,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194083,
+				"count": 194086,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1153,7 +1153,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 9193,
+				"count": 9194,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -1323,7 +1323,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87969,
+				"count": 87973,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
