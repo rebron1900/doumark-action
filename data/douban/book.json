@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21388,
+				"count": 21390,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 136643,
+				"count": 136694,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -197,7 +197,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227751,
+				"count": 227761,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -242,7 +242,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4011670.jpg",
-			"min_sale_price": "¥10.4",
+			"min_sale_price": "¥6.8",
 			"press": [
 				"吉林出版集团"
 			],
@@ -810,7 +810,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13019,
+				"count": 13020,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -895,7 +895,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121123,
+				"count": 121125,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -985,7 +985,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194086,
+				"count": 194089,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1196,7 +1196,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/3091349.jpg",
-			"min_sale_price": "¥10.5",
+			"min_sale_price": "",
 			"press": [
 				"江苏文艺出版社"
 			],
@@ -1209,7 +1209,7 @@
 			"uri": "douban://douban.com/book/3091349",
 			"subtype": "book",
 			"intro": "《鲤·孤独》以“孤独”为主题，以当下青年最关注的日本流行文学里的强烈孤独感为引子，展现和挖掘了女性“孤独”这一心理状态的不同侧面。\n收录了日本畅销作家青山七惠、八零年代作家张悦然、周嘉宁、安意如，七零年代作家周洁茹，台湾女作家胡淑雯的最新小说和随笔。其中有中、日八零后生活和内心状态的展现，也带来了七零年代和八零年代作者和作品的碰撞。",
-			"buy_more_uri": "douban://douban.com/book/3091349/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
