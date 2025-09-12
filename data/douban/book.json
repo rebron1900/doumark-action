@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21435,
+				"count": 21440,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.6
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 137152,
+				"count": 137201,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -197,7 +197,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227824,
+				"count": 227831,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -286,7 +286,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 828,
+				"count": 829,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -369,7 +369,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27547,
+				"count": 27548,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -810,7 +810,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13033,
+				"count": 13035,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -985,7 +985,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194092,
+				"count": 194091,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1323,7 +1323,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87974,
+				"count": 87975,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2033,7 +2033,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/3082293.jpg",
-			"min_sale_price": "¥18.1",
+			"min_sale_price": "",
 			"press": [
 				"人民邮电出版社"
 			],
@@ -2046,7 +2046,7 @@
 			"uri": "douban://douban.com/book/3082293",
 			"subtype": "book",
 			"intro": "本书以通俗易懂的方式介绍了jQuery 的基本概念，主要包括jQuery 的选择符、事件、特效、DOM 操作、AJAX、表格操作、表单函数、拖曳与旋转和插件等内容，最后几章以实例操作为主，在前面内容的基础上，提出了常见的客户端实际问题并给出了其解决方案。\n本书是一本注重理论与实践结合的基础教程，适合Web 开发人员阅读和参考。",
-			"buy_more_uri": "douban://douban.com/book/3082293/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
