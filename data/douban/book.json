@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21475,
+				"count": 21479,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 137497,
+				"count": 137559,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -197,7 +197,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227855,
+				"count": 227860,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -329,7 +329,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30267763.jpg",
-			"min_sale_price": "¥21.3",
+			"min_sale_price": "¥24.93",
 			"press": [
 				"上海社会科学院出版社"
 			],
@@ -633,7 +633,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6909,
+				"count": 6910,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -720,10 +720,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7776,
+				"count": 7778,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7
+				"value": 6.9
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -895,7 +895,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121149,
+				"count": 121150,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -985,7 +985,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194097,
+				"count": 194103,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1236,7 +1236,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25023,
+				"count": 25024,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1657,7 +1657,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1758,
+				"count": 1759,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -2033,7 +2033,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/3082293.jpg",
-			"min_sale_price": "¥18.1",
+			"min_sale_price": "",
 			"press": [
 				"人民邮电出版社"
 			],
@@ -2046,7 +2046,7 @@
 			"uri": "douban://douban.com/book/3082293",
 			"subtype": "book",
 			"intro": "本书以通俗易懂的方式介绍了jQuery 的基本概念，主要包括jQuery 的选择符、事件、特效、DOM 操作、AJAX、表格操作、表单函数、拖曳与旋转和插件等内容，最后几章以实例操作为主，在前面内容的基础上，提出了常见的客户端实际问题并给出了其解决方案。\n本书是一本注重理论与实践结合的基础教程，适合Web 开发人员阅读和参考。",
-			"buy_more_uri": "douban://douban.com/book/3082293/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
