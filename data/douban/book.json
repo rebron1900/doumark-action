@@ -19,7 +19,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21479,
+				"count": 21484,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -104,7 +104,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 137559,
+				"count": 136996,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -197,7 +197,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227860,
+				"count": 227862,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -810,7 +810,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13043,
+				"count": 13044,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -895,7 +895,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121150,
+				"count": 121151,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -945,7 +945,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4742918.jpg",
-			"min_sale_price": "¥25.2",
+			"min_sale_price": "¥16.5",
 			"press": [
 				"南海出版公司"
 			],
@@ -1236,7 +1236,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25024,
+				"count": 25027,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1408,7 +1408,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11263,
+				"count": 11264,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
