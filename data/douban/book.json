@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21496,
+				"count": 21501,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 137122,
+				"count": 137177,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -123,7 +123,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 59,
+					"rank": 63,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227876,
+				"count": 227885,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -820,7 +820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13047,
+				"count": 13050,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121157,
+				"count": 121161,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194111,
+				"count": 194114,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1339,7 +1339,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87975,
+				"count": 87974,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
