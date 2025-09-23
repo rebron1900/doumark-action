@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21501,
+				"count": 21508,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 137177,
+				"count": 137235,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227885,
+				"count": 227888,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -290,7 +290,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 829,
+				"count": 830,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.3
@@ -420,7 +420,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/20425053.jpg",
-			"min_sale_price": "¥18.0",
+			"min_sale_price": "¥15.2",
 			"press": [
 				"浙江文艺出版社"
 			],
@@ -466,7 +466,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2004,
+				"count": 2005,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.4
@@ -820,7 +820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13050,
+				"count": 13051,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194114,
+				"count": 194116,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1339,7 +1339,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87974,
+				"count": 87975,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1353,7 +1353,7 @@
 				"normal": "https://img3.doubanio.com/view/subject/m/public/s1469173.jpg"
 			},
 			"honor_infos": [],
-			"other_versions_count": 31,
+			"other_versions_count": 32,
 			"is_show": false,
 			"vendor_icons": [],
 			"card_subtitle": "余华 / 2004 / 上海文艺出版社",
