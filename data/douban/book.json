@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21559,
+				"count": 21562,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 137974,
+				"count": 138038,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 227953,
+				"count": 227960,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -216,9 +216,7 @@
 			"honor_infos": [],
 			"other_versions_count": 61,
 			"is_show": false,
-			"vendor_icons": [
-				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
-			],
+			"vendor_icons": [],
 			"card_subtitle": "太宰治 / 2009 / 吉林出版集团",
 			"book_subtitle": "",
 			"id": "4011670",
@@ -262,7 +260,7 @@
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
-			"has_ebook": true
+			"has_ebook": false
 		}
 	},
 	{
@@ -820,7 +818,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13068,
+				"count": 13071,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -906,7 +904,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121186,
+				"count": 121190,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -997,7 +995,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194135,
+				"count": 194137,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1251,7 +1249,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25042,
+				"count": 25043,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1339,7 +1337,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87985,
+				"count": 87986,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1425,7 +1423,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11268,
+				"count": 11269,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
