@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21764,
+				"count": 21767,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 140294,
+				"count": 140339,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228202,
+				"count": 228209,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -729,7 +729,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7790,
+				"count": 7791,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121301,
+				"count": 121305,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194222,
+				"count": 194223,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1021,11 +1021,13 @@
 			"other_versions_count": 29,
 			"is_show": false,
 			"vendor_icons": [],
-			"card_subtitle": "三毛 / 1976 / 皇冠出版社",
-			"book_subtitle": "",
+			"card_subtitle": "三毛 n/a n/a / 1976 / 皇冠出版社",
+			"book_subtitle": "撒哈拉的故事",
 			"id": "1361264",
 			"author": [
-				"三毛"
+				"三毛",
+				"n/a",
+				"n/a"
 			],
 			"is_released": true,
 			"vendor_original_price": "",
@@ -1251,7 +1253,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25084,
+				"count": 25086,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1339,7 +1341,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 87994,
+				"count": 87995,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
