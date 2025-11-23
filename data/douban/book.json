@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 21771,
+				"count": 21775,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 140381,
+				"count": 140441,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228217,
+				"count": 228221,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -820,7 +820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13159,
+				"count": 13162,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121310,
+				"count": 121315,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -997,14 +997,14 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194223,
+				"count": 194229,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
 			},
 			"controversy_reason": "",
 			"pubdate": [
-				"1976"
+				"1976-5"
 			],
 			"pic": {
 				"large": "https://img3.doubanio.com/view/subject/l/public/s3563113.jpg",
