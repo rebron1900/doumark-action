@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22003,
+				"count": 22012,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 142406,
+				"count": 142480,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228449,
+				"count": 228454,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -214,7 +214,7 @@
 				"normal": "https://img9.doubanio.com/view/subject/m/public/s6100756.jpg"
 			},
 			"honor_infos": [],
-			"other_versions_count": 61,
+			"other_versions_count": 62,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
@@ -820,7 +820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13222,
+				"count": 13226,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121404,
+				"count": 121408,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194317,
+				"count": 194320,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1251,7 +1251,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25120,
+				"count": 25122,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1425,7 +1425,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11276,
+				"count": 11277,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1593,7 +1593,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2958,
+				"count": 2957,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.2
@@ -1677,7 +1677,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1773,
+				"count": 1774,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
