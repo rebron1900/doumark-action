@@ -20,10 +20,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22061,
+				"count": 22070,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 6.6
+				"value": 6.5
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 143037,
+				"count": 143093,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -159,7 +159,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36328704.jpg",
-			"min_sale_price": "¥22.8",
+			"min_sale_price": "¥22.2",
 			"press": [
 				"湖南文艺出版社"
 			],
@@ -245,7 +245,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4011670.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥10.4",
 			"press": [
 				"吉林出版集团"
 			],
@@ -258,7 +258,7 @@
 			"uri": "douban://douban.com/book/4011670",
 			"subtype": "book",
 			"intro": "《人间失格》是日本著名小说家太宰治最具影响力的小说作品，同时也是糸色望（注：动漫《再见！绝望先生》的主角）老师日常生活必备的读物之一。另外在日本轻小说《文学少女》第一卷中被大量提及。《人间失格》（又名《丧失为人的资格》）发表于1948年，是一部自传体的小说，纤细的自传体中透露出极致的颓废，毁灭式的绝笔之作。太宰治巧妙地将自己的人生与思想，隐藏于主角叶藏的人生遭遇，藉由叶藏的独白，窥探太宰治的内心世界，一个“充满了可耻的一生”。在发表这部作品的同年，太宰治就自杀身亡。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/4011670/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -333,7 +333,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30267763.jpg",
-			"min_sale_price": "¥20.1",
+			"min_sale_price": "¥24.93",
 			"press": [
 				"上海社会科学院出版社"
 			],
@@ -420,7 +420,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/20425053.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥18.0",
 			"press": [
 				"浙江文艺出版社"
 			],
@@ -433,7 +433,7 @@
 			"uri": "douban://douban.com/book/20425053",
 			"subtype": "book",
 			"intro": "★韩寒新作《我所理解的生活》，三十岁的韩寒，第一次自我剖析。\n★韩寒所有作品中，删减幅度最小！收录韩三篇：谈革命，说民主，要自由。\n★少说，多做，不解释。\n第一次向读者展示生活中最真实的韩寒。\n在《我所理解的生活》中，韩寒讨论民主自由、针砭时弊，谈及感情、家庭、偶像，分享个人成长经历，诚恳地剖析自己。\n收录著名韩三篇，“谈革命”“说民主”“要自由”。\n在韩寒迄今为止所有作品中，《我所理解的生活》删减幅度最小。\n三十岁，韩寒争议不少，成绩更多。\n诚恳之作《我所理解的生活》，韩寒想说的都在这里了。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/20425053/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -596,7 +596,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/5375571.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥18.2",
 			"press": [
 				"时代文艺出版社"
 			],
@@ -609,7 +609,7 @@
 			"uri": "douban://douban.com/book/5375571",
 			"subtype": "book",
 			"intro": "上世纪六十年代，身为新中国第一批地质勘探队员，我们被秘密选调到某地质工程大队。一纸密令，我们不明目的、不明地点、不明原因，来到无法确认地点的中蒙边境原始丛林。经过焦灼惶恐，甚至以为要被秘密处决的阶段，我们观看了一段专供中央高层的绝密《零号片》，幕布上的画面让人窒息——地震波传回的信息还原在胶片上，清晰地显示出地下一千二百米处的岩壳里，竟然镶嵌着一架日式重型轰炸机！这是阴谋还是超自然力？带着疑惑和不解，我们凭着绝大的勇气进入地层，但这次勘探任务却以无法评说的结局结束。我们滞留在暗无天日的基地里，亲历了种种超乎寻常的事件，最后终于乘坐一架飞机，再次进入那片巨大的虚无……一切都比最严重的预想来得诡异。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/5375571/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -684,7 +684,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4725541.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥17.42",
 			"press": [
 				"文化艺术出版社"
 			],
@@ -697,7 +697,7 @@
 			"uri": "douban://douban.com/book/4725541",
 			"subtype": "book",
 			"intro": "上世纪六十年代，身为新中国第一批地质勘探队员，我们被秘密选调到某地质工程大队。\n一纸密令，我们不明目的、不明地点、不明原因，来到最老到的地质工程师都不能确认的中蒙边境原始丛林。经过焦灼惶恐，甚至以为要被秘密处决的阶段，我们观看了一段专供中央高层的绝密《零号片》。胶片的画面让一直受到唯物主义思想教育的我们窒息：地震波传回的信息还原在胶片上，放大二百倍后清晰地显示——地下一千二百米处的岩壳里，竟然镶嵌着一架日式重型轰炸机！\n这是阴谋还是超自然力？如果不是扯淡的空间扭曲，那么，是什么疯狂的力量让飞机出现在那里？！或者，这是战败前，日本军队进行的别具深意的举动？\n带着疑惑和不解，我们作为数支勘探队中的一股，凭着绝大的勇气，从三十多米大的洞穴裂口进入地层，开始了惊悚诡异的旅程。\n直到现在，我依然在想，如果那时候我们没有唯物主义者坚定的信仰，在看到地层中埋藏的一切后，我们还能在那片让人绝望的黑暗中坚持下去吗？",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/4725541/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -774,7 +774,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4903190.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥18.0",
 			"press": [
 				"人民文学出版社"
 			],
@@ -787,7 +787,7 @@
 			"uri": "douban://douban.com/book/4903190",
 			"subtype": "book",
 			"intro": "融合了人类心理变化与推理元素的7个短篇。都是以高中为故事舞台的“小小故意杀人事件”。案发地点都未发现凶手，那么凶手在哪里？……挚友突然死亡，就如枯叶一般落到校舍的屋顶上。虽然明知警察会觉得是自杀，但是……欲望交错的一夜，发生了各种离奇杀人案件。看谜题如何解开。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/4903190/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -820,7 +820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13237,
+				"count": 13239,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121427,
+				"count": 121428,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194333,
+				"count": 194334,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1251,7 +1251,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25132,
+				"count": 25134,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1298,7 +1298,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4105446.jpg",
-			"min_sale_price": "¥20.8",
+			"min_sale_price": "¥13.0",
 			"press": [
 				"上海译文出版社"
 			],
@@ -1468,7 +1468,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/3604520.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥14.2",
 			"press": [
 				"北京十月文艺出版社"
 			],
@@ -1481,7 +1481,7 @@
 			"uri": "douban://douban.com/book/3604520",
 			"subtype": "book",
 			"intro": "本卷收录散文31篇，记述了三毛少女时代的成长经历。\n《雨季不再来》记录了三毛如何从青涩敏感的二毛，蜕变为智慧成熟的三毛的过程，亲切而真实。\n从撒哈拉回首雨季，品味三毛成长过程中始终不渝的赤子之心。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/3604520/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -1888,7 +1888,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1435936.jpg",
-			"min_sale_price": "",
+			"min_sale_price": "¥38.6",
 			"press": [
 				"人民邮电出版社"
 			],
@@ -1901,7 +1901,7 @@
 			"uri": "douban://douban.com/book/1435936",
 			"subtype": "book",
 			"intro": "本书介绍如何设计和构建自己的计算机游戏。书中从零开始，引导读者开发一个“即插即用”的游戏引擎，并基于该引擎，循序渐进地开发7个完整的游戏。全书分为8个部分，共24章，内容包括游戏编程基础知识、如何与玩家交互、使用子画面动画、使用声音和音乐、高级动画、游戏人工智能、增添游戏的趣味性和附加练习。此外，在随书光盘中提供有附录，包括C++语言和windows编程的入门指导、游戏开发工具以及游戏图形创建的介绍。\n　　本书适用于任何对C++语言有基本了解的读者阅读，适宜作为读者进入游戏开发领域的技术入门学习用书。",
-			"buy_more_uri": "",
+			"buy_more_uri": "douban://douban.com/book/1435936/vendors_douban",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
