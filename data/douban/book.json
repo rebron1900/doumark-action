@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22156,
+				"count": 22161,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 144117,
+				"count": 144169,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228593,
+				"count": 228595,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -290,7 +290,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 838,
+				"count": 839,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7.1
@@ -333,7 +333,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30267763.jpg",
-			"min_sale_price": "¥24.93",
+			"min_sale_price": "¥20.1",
 			"press": [
 				"上海社会科学院出版社"
 			],
@@ -374,7 +374,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27602,
+				"count": 27604,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -420,7 +420,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/20425053.jpg",
-			"min_sale_price": "¥18.0",
+			"min_sale_price": "¥16.5",
 			"press": [
 				"浙江文艺出版社"
 			],
@@ -820,7 +820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13273,
+				"count": 13275,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121466,
+				"count": 121469,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194342,
+				"count": 194341,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1251,7 +1251,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25159,
+				"count": 25161,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1339,7 +1339,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 88009,
+				"count": 88008,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
