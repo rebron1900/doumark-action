@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22161,
+				"count": 22167,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 144169,
+				"count": 144216,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228595,
+				"count": 228600,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -245,7 +245,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4011670.jpg",
-			"min_sale_price": "¥10.4",
+			"min_sale_price": "¥6.8",
 			"press": [
 				"吉林出版集团"
 			],
@@ -820,7 +820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13275,
+				"count": 13277,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121469,
+				"count": 121472,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -956,7 +956,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4742918.jpg",
-			"min_sale_price": "¥12.5",
+			"min_sale_price": "¥25.2",
 			"press": [
 				"南海出版公司"
 			],
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194341,
+				"count": 194343,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1251,7 +1251,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25161,
+				"count": 25162,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1425,7 +1425,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11282,
+				"count": 11283,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1677,7 +1677,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1777,
+				"count": 1778,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
