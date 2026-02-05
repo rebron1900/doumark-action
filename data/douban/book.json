@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22207,
+				"count": 22213,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 144584,
+				"count": 144633,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228633,
+				"count": 228639,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -374,7 +374,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27612,
+				"count": 27614,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -466,7 +466,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2007,
+				"count": 2008,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -596,7 +596,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/5375571.jpg",
-			"min_sale_price": "¥18.2",
+			"min_sale_price": "¥28.0",
 			"press": [
 				"时代文艺出版社"
 			],
@@ -684,7 +684,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4725541.jpg",
-			"min_sale_price": "¥17.42",
+			"min_sale_price": "¥26.8",
 			"press": [
 				"文化艺术出版社"
 			],
@@ -774,7 +774,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4903190.jpg",
-			"min_sale_price": "¥18.0",
+			"min_sale_price": "¥18.75",
 			"press": [
 				"人民文学出版社"
 			],
@@ -956,7 +956,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4742918.jpg",
-			"min_sale_price": "¥25.2",
+			"min_sale_price": "¥28.1",
 			"press": [
 				"南海出版公司"
 			],
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194344,
+				"count": 194343,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1251,7 +1251,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25168,
+				"count": 25170,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1298,7 +1298,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4105446.jpg",
-			"min_sale_price": "¥13.0",
+			"min_sale_price": "¥19.25",
 			"press": [
 				"上海译文出版社"
 			],
@@ -1468,7 +1468,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/3604520.jpg",
-			"min_sale_price": "¥14.2",
+			"min_sale_price": "¥20.0",
 			"press": [
 				"北京十月文艺出版社"
 			],
@@ -1677,7 +1677,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 1778,
+				"count": 1779,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
