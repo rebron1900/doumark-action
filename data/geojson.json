@@ -298,6 +298,20 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "\u56db\u4eba\u540c",
+                "description": "[\u5f00\u5e74\u56db\u4eba\u540c\u4e4b\u884c<br>](https://1900.live/kai-nian-si-ren-tong-zhi-xing/)(https://cdn.1900.live/assets/2025/06/15mmexport1749864516196_compressed.jpeg!1800w)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.38857008755382,
+                    29.81669119524686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "\u5c71\u57ce\u6b65\u9053",
                 "description": "[\u91cd\u5e86\u7279\u79cd\u5175\u5927\u4f5c\u6218\u4e24\u65e5\u6e38\uff1a2](https://1900.live/zhong-qing-te-chong-bing-da-zuo-zhan-liang-ri-you-2/)(https://cdn.1900.live/assets/2024/08/141723562357313.jpg!1800w)"
             },
