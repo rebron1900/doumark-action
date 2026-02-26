@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22299,
+				"count": 22303,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 145583,
+				"count": 145629,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228760,
+				"count": 228771,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -290,10 +290,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 839,
+				"count": 840,
 				"max": 10,
 				"star_count": 3.5,
-				"value": 7.1
+				"value": 7
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -333,7 +333,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30267763.jpg",
-			"min_sale_price": "¥43.8",
+			"min_sale_price": "¥41.6",
 			"press": [
 				"上海社会科学院出版社"
 			],
@@ -820,7 +820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13318,
+				"count": 13319,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194352,
+				"count": 194351,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1251,7 +1251,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25194,
+				"count": 25195,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1425,7 +1425,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11285,
+				"count": 11286,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
