@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22311,
+				"count": 22320,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 145730,
+				"count": 145781,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228782,
+				"count": 228792,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -333,7 +333,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30267763.jpg",
-			"min_sale_price": "¥41.6",
+			"min_sale_price": "",
 			"press": [
 				"上海社会科学院出版社"
 			],
@@ -346,7 +346,7 @@
 			"uri": "douban://douban.com/book/30267763",
 			"subtype": "book",
 			"intro": "黄渤曾说过：没有人能随随便便成功，命运需要你努力向它靠近。\n记录八年日常点点滴滴，全方位展现黄渤在朝梦想靠近的路上所做的各种努力与付出，为你展示一个大众从未见过的拥有选择困难症与完美主义的处女座黄渤。\n收录八年人生经历和生活感悟，带你走进黄渤的生活，走入他的内心，体验他生活与工作中的所思所感所悟。 从八年前一个念头，到八年中的一步步，揭秘黄渤八年从台前到幕后不为人知的心路，《一出好戏》全记录，精彩图文还原他从演员到导演的进化历程。",
-			"buy_more_uri": "douban://douban.com/book/30267763/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -374,7 +374,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27644,
+				"count": 27647,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -684,7 +684,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4725541.jpg",
-			"min_sale_price": "¥26.8",
+			"min_sale_price": "",
 			"press": [
 				"文化艺术出版社"
 			],
@@ -697,7 +697,7 @@
 			"uri": "douban://douban.com/book/4725541",
 			"subtype": "book",
 			"intro": "上世纪六十年代，身为新中国第一批地质勘探队员，我们被秘密选调到某地质工程大队。\n一纸密令，我们不明目的、不明地点、不明原因，来到最老到的地质工程师都不能确认的中蒙边境原始丛林。经过焦灼惶恐，甚至以为要被秘密处决的阶段，我们观看了一段专供中央高层的绝密《零号片》。胶片的画面让一直受到唯物主义思想教育的我们窒息：地震波传回的信息还原在胶片上，放大二百倍后清晰地显示——地下一千二百米处的岩壳里，竟然镶嵌着一架日式重型轰炸机！\n这是阴谋还是超自然力？如果不是扯淡的空间扭曲，那么，是什么疯狂的力量让飞机出现在那里？！或者，这是战败前，日本军队进行的别具深意的举动？\n带着疑惑和不解，我们作为数支勘探队中的一股，凭着绝大的勇气，从三十多米大的洞穴裂口进入地层，开始了惊悚诡异的旅程。\n直到现在，我依然在想，如果那时候我们没有唯物主义者坚定的信仰，在看到地层中埋藏的一切后，我们还能在那片让人绝望的黑暗中坚持下去吗？",
-			"buy_more_uri": "douban://douban.com/book/4725541/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -774,7 +774,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4903190.jpg",
-			"min_sale_price": "¥18.75",
+			"min_sale_price": "",
 			"press": [
 				"人民文学出版社"
 			],
@@ -787,7 +787,7 @@
 			"uri": "douban://douban.com/book/4903190",
 			"subtype": "book",
 			"intro": "融合了人类心理变化与推理元素的7个短篇。都是以高中为故事舞台的“小小故意杀人事件”。案发地点都未发现凶手，那么凶手在哪里？……挚友突然死亡，就如枯叶一般落到校舍的屋顶上。虽然明知警察会觉得是自杀，但是……欲望交错的一夜，发生了各种离奇杀人案件。看谜题如何解开。",
-			"buy_more_uri": "douban://douban.com/book/4903190/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -820,7 +820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13326,
+				"count": 13327,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121540,
+				"count": 121545,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -956,7 +956,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4742918.jpg",
-			"min_sale_price": "¥28.1",
+			"min_sale_price": "",
 			"press": [
 				"南海出版公司"
 			],
@@ -969,7 +969,7 @@
 			"uri": "douban://douban.com/book/4742918",
 			"subtype": "book",
 			"intro": "1Q84简体中文版官方网站：http://www.douban.com/minisite/1q84/\n“不管喜欢还是不喜欢，目前我已经置身于这‘1Q84年’。我熟悉的那个1984年已经无影无踪，今年是1Q84年。空气变了，风景变了。我必须尽快适应这个带着问号的世界。像被放进陌生森林中的动物一样，为了生存下去，得尽快了解并顺应这里的规则。”\n《1Q84》写一对十岁时相遇后便各奔东西的三十岁男女，相互寻觅对方的故事，并将这个简单故事变成复杂的长篇。我想将这个时代所有世态立体地写出，成为我独有的“综合小说”。超越纯文学这一类型，采取多种尝试。在当今时代的空气中嵌入人类的生命。——村上春树\n★村上春树蛰伏7年震撼新作！\n★1979-2009，村上春树创造30年巅峰杰作！\n★ 现在是1Q84年，空气变了，风景变了，规则也变了。\n为了保护自己，你必须尽快顺应这1Q84的规则。\n★日本上市1周，销售突破65万册，创造历史纪录。\n★上市12天，销售突破100万册，创造100万册最快记录。\n★上市1个月，销售突破200万册，创造200万册最快纪录。\n★荣获2009年日本“年度最畅销图书”第1名。\n★村上春树荣登日本“年度最受欢迎作家”第1名。\n★韩国以15亿韩元创版权最高纪录。\n★上市连续9周雄踞图书总榜第1名。\n★荣获韩国2009年“年度最受欢迎图书”第1名。\n★中文繁体版以超过1亿新台币创首印最高纪录。\n★上市第3日登上图书总榜第1名。\n★荣获2009年“年度最畅销图书”第1名。\n★《1Q84》中文简体版首印100万册。\n★为《1Q84》免费发送“抢读本”100万册。",
-			"buy_more_uri": "douban://douban.com/book/4742918/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194352,
+				"count": 194355,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1251,7 +1251,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25199,
+				"count": 25200,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1468,7 +1468,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/3604520.jpg",
-			"min_sale_price": "¥20.0",
+			"min_sale_price": "",
 			"press": [
 				"北京十月文艺出版社"
 			],
@@ -1481,7 +1481,7 @@
 			"uri": "douban://douban.com/book/3604520",
 			"subtype": "book",
 			"intro": "本卷收录散文31篇，记述了三毛少女时代的成长经历。\n《雨季不再来》记录了三毛如何从青涩敏感的二毛，蜕变为智慧成熟的三毛的过程，亲切而真实。\n从撒哈拉回首雨季，品味三毛成长过程中始终不渝的赤子之心。",
-			"buy_more_uri": "douban://douban.com/book/3604520/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -1888,7 +1888,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1435936.jpg",
-			"min_sale_price": "¥38.6",
+			"min_sale_price": "",
 			"press": [
 				"人民邮电出版社"
 			],
@@ -1901,7 +1901,7 @@
 			"uri": "douban://douban.com/book/1435936",
 			"subtype": "book",
 			"intro": "本书介绍如何设计和构建自己的计算机游戏。书中从零开始，引导读者开发一个“即插即用”的游戏引擎，并基于该引擎，循序渐进地开发7个完整的游戏。全书分为8个部分，共24章，内容包括游戏编程基础知识、如何与玩家交互、使用子画面动画、使用声音和音乐、高级动画、游戏人工智能、增添游戏的趣味性和附加练习。此外，在随书光盘中提供有附录，包括C++语言和windows编程的入门指导、游戏开发工具以及游戏图形创建的介绍。\n　　本书适用于任何对C++语言有基本了解的读者阅读，适宜作为读者进入游戏开发领域的技术入门学习用书。",
-			"buy_more_uri": "douban://douban.com/book/1435936/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
