@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22320,
+				"count": 22327,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 145781,
+				"count": 145826,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -123,7 +123,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 64,
+					"rank": 65,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228792,
+				"count": 228798,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -374,7 +374,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27647,
+				"count": 27648,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -420,7 +420,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/20425053.jpg",
-			"min_sale_price": "¥25.2",
+			"min_sale_price": "",
 			"press": [
 				"浙江文艺出版社"
 			],
@@ -433,7 +433,7 @@
 			"uri": "douban://douban.com/book/20425053",
 			"subtype": "book",
 			"intro": "★韩寒新作《我所理解的生活》，三十岁的韩寒，第一次自我剖析。\n★韩寒所有作品中，删减幅度最小！收录韩三篇：谈革命，说民主，要自由。\n★少说，多做，不解释。\n第一次向读者展示生活中最真实的韩寒。\n在《我所理解的生活》中，韩寒讨论民主自由、针砭时弊，谈及感情、家庭、偶像，分享个人成长经历，诚恳地剖析自己。\n收录著名韩三篇，“谈革命”“说民主”“要自由”。\n在韩寒迄今为止所有作品中，《我所理解的生活》删减幅度最小。\n三十岁，韩寒争议不少，成绩更多。\n诚恳之作《我所理解的生活》，韩寒想说的都在这里了。",
-			"buy_more_uri": "douban://douban.com/book/20425053/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -553,7 +553,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3916,
+				"count": 3917,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -596,7 +596,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/5375571.jpg",
-			"min_sale_price": "¥28.0",
+			"min_sale_price": "",
 			"press": [
 				"时代文艺出版社"
 			],
@@ -609,7 +609,7 @@
 			"uri": "douban://douban.com/book/5375571",
 			"subtype": "book",
 			"intro": "上世纪六十年代，身为新中国第一批地质勘探队员，我们被秘密选调到某地质工程大队。一纸密令，我们不明目的、不明地点、不明原因，来到无法确认地点的中蒙边境原始丛林。经过焦灼惶恐，甚至以为要被秘密处决的阶段，我们观看了一段专供中央高层的绝密《零号片》，幕布上的画面让人窒息——地震波传回的信息还原在胶片上，清晰地显示出地下一千二百米处的岩壳里，竟然镶嵌着一架日式重型轰炸机！这是阴谋还是超自然力？带着疑惑和不解，我们凭着绝大的勇气进入地层，但这次勘探任务却以无法评说的结局结束。我们滞留在暗无天日的基地里，亲历了种种超乎寻常的事件，最后终于乘坐一架飞机，再次进入那片巨大的虚无……一切都比最严重的预想来得诡异。",
-			"buy_more_uri": "douban://douban.com/book/5375571/vendors_douban",
+			"buy_more_uri": "",
 			"null_rating_reason": "",
 			"article_intros": [],
 			"vendor_sale_price": "",
@@ -641,7 +641,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6949,
+				"count": 6950,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -729,7 +729,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7809,
+				"count": 7810,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121545,
+				"count": 121551,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194355,
+				"count": 194354,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1251,7 +1251,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25200,
+				"count": 25202,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1298,7 +1298,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4105446.jpg",
-			"min_sale_price": "¥19.25",
+			"min_sale_price": "¥22.4",
 			"press": [
 				"上海译文出版社"
 			],
@@ -1339,7 +1339,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 88018,
+				"count": 88019,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1425,7 +1425,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11286,
+				"count": 11287,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
