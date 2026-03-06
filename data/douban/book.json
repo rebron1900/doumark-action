@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22336,
+				"count": 22339,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 145962,
+				"count": 146000,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -159,7 +159,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36328704.jpg",
-			"min_sale_price": "¥22.2",
+			"min_sale_price": "¥23.3",
 			"press": [
 				"湖南文艺出版社"
 			],
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228813,
+				"count": 228817,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -374,7 +374,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27648,
+				"count": 27649,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -509,7 +509,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/3115901.jpg",
-			"min_sale_price": "¥18.3",
+			"min_sale_price": "¥18.95",
 			"press": [
 				"南海出版公司"
 			],
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121556,
+				"count": 121557,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194354,
+				"count": 194355,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1251,7 +1251,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25205,
+				"count": 25206,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1298,7 +1298,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/4105446.jpg",
-			"min_sale_price": "¥15.4",
+			"min_sale_price": "¥14.0",
 			"press": [
 				"上海译文出版社"
 			],
@@ -1384,7 +1384,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1061118.jpg",
-			"min_sale_price": "¥14.11",
+			"min_sale_price": "¥14.77",
 			"press": [
 				"上海文艺出版社"
 			],
