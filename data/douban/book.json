@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22383,
+				"count": 22386,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 146387,
+				"count": 146435,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -123,7 +123,7 @@
 				{
 					"kind": "book",
 					"uri": "douban://douban.com/subject_collection/book_top250",
-					"rank": 64,
+					"rank": 65,
 					"title": "豆瓣图书Top250"
 				}
 			],
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228877,
+				"count": 228879,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -290,7 +290,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 841,
+				"count": 842,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 7
@@ -374,7 +374,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27659,
+				"count": 27663,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -729,7 +729,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 7812,
+				"count": 7813,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.9
@@ -820,7 +820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13350,
+				"count": 13356,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121569,
+				"count": 121570,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -1251,7 +1251,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25213,
+				"count": 25214,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1384,7 +1384,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1061118.jpg",
-			"min_sale_price": "¥14.77",
+			"min_sale_price": "¥14.37",
 			"press": [
 				"上海文艺出版社"
 			],
@@ -1425,7 +1425,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11288,
+				"count": 11289,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
