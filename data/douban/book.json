@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22441,
+				"count": 22446,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 146923,
+				"count": 146979,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228963,
+				"count": 228973,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -820,7 +820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13376,
+				"count": 13377,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121592,
+				"count": 121593,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194374,
+				"count": 194375,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1210,7 +1210,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/3091349.jpg",
-			"min_sale_price": "¥9.37",
+			"min_sale_price": "¥9.24",
 			"press": [
 				"江苏文艺出版社"
 			],
@@ -1251,7 +1251,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25225,
+				"count": 25226,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1384,7 +1384,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1061118.jpg",
-			"min_sale_price": "¥14.37",
+			"min_sale_price": "¥14.32",
 			"press": [
 				"上海文艺出版社"
 			],
