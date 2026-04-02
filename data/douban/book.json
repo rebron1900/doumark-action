@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22457,
+				"count": 22461,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 147112,
+				"count": 147150,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 228992,
+				"count": 228999,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -820,7 +820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13383,
+				"count": 13384,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121600,
+				"count": 121601,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194379,
+				"count": 194380,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1210,7 +1210,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/3091349.jpg",
-			"min_sale_price": "¥9.24",
+			"min_sale_price": "¥9.27",
 			"press": [
 				"江苏文艺出版社"
 			],
@@ -1251,7 +1251,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25229,
+				"count": 25230,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
