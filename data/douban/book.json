@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22532,
+				"count": 22539,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 147886,
+				"count": 147922,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -159,7 +159,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/36328704.jpg",
-			"min_sale_price": "¥21.0",
+			"min_sale_price": "¥23.3",
 			"press": [
 				"湖南文艺出版社"
 			],
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 229091,
+				"count": 229098,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -466,10 +466,10 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 2010,
+				"count": 2011,
 				"max": 10,
 				"star_count": 4,
-				"value": 8.4
+				"value": 8.3
 			},
 			"controversy_reason": "",
 			"pubdate": [
@@ -553,7 +553,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3919,
+				"count": 3920,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -641,7 +641,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6957,
+				"count": 6959,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -820,7 +820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13412,
+				"count": 13415,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121632,
+				"count": 121635,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194378,
+				"count": 194380,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1353,7 +1353,7 @@
 				"normal": "https://img3.doubanio.com/view/subject/m/public/s1469173.jpg"
 			},
 			"honor_infos": [],
-			"other_versions_count": 31,
+			"other_versions_count": 32,
 			"is_show": false,
 			"vendor_icons": [
 				"https://img1.doubanio.com/f/frodo/f6f620132e6d8a02d171f03114bbe2339aa8af97/pics/vendors/logo_doubanread@2x.png"
@@ -1425,7 +1425,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 11293,
+				"count": 11294,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.7
@@ -1720,7 +1720,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/1152971.jpg",
-			"min_sale_price": "¥35.28",
+			"min_sale_price": "¥33.73",
 			"press": [
 				"电子工业出版社"
 			],
