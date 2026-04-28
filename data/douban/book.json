@@ -20,7 +20,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 22566,
+				"count": 22572,
 				"max": 10,
 				"star_count": 3.5,
 				"value": 6.5
@@ -106,7 +106,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 148232,
+				"count": 148276,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9
@@ -200,7 +200,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 229133,
+				"count": 229139,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.2
@@ -333,7 +333,7 @@
 			},
 			"type": "book",
 			"cover_url": "https://dou.img.lithub.cc/book/30267763.jpg",
-			"min_sale_price": "¥19.1",
+			"min_sale_price": "¥28.1",
 			"press": [
 				"上海社会科学院出版社"
 			],
@@ -374,7 +374,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 27692,
+				"count": 27693,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.5
@@ -553,7 +553,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 3921,
+				"count": 3922,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.7
@@ -641,7 +641,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 6961,
+				"count": 6962,
 				"max": 10,
 				"star_count": 4,
 				"value": 7.6
@@ -820,7 +820,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 13423,
+				"count": 13424,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 8.8
@@ -906,7 +906,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 121643,
+				"count": 121646,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.3
@@ -997,7 +997,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 194380,
+				"count": 194382,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
@@ -1251,7 +1251,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 25244,
+				"count": 25245,
 				"max": 10,
 				"star_count": 4,
 				"value": 8.1
@@ -1339,7 +1339,7 @@
 		"is_private": false,
 		"subject": {
 			"rating": {
-				"count": 88023,
+				"count": 88024,
 				"max": 10,
 				"star_count": 4.5,
 				"value": 9.1
