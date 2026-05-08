@@ -326,6 +326,58 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "\u78e8\u897f\u53e4\u9547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.12515131988866,
+                    29.644926603122634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u5927\u8349\u575d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.86537382951737,
+                    30.015375244401575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u7ea2\u6d77\u5b50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.37878561227676,
+                    30.438134003452443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u9f99\u534e\u5c71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.09827208537125,
+                    29.726133446288816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "\u5c71\u57ce\u6b65\u9053",
                 "description": "[\u91cd\u5e86\u7279\u79cd\u5175\u5927\u4f5c\u6218\u4e24\u65e5\u6e38\uff1a2](https://1900.live/zhong-qing-te-chong-bing-da-zuo-zhan-liang-ri-you-2/)(https://cdn.1900.live/assets/2024/08/141723562357313.jpg!1800w)"
             },
