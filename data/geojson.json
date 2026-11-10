@@ -391,14 +391,117 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "\u5c71\u57ce\u6b65\u9053",
-                "description": "[\u91cd\u5e86\u7279\u79cd\u5175\u5927\u4f5c\u6218\u4e24\u65e5\u6e38\uff1a2](https://1900.live/zhong-qing-te-chong-bing-da-zuo-zhan-liang-ri-you-2/)(https://cdn.1900.live/assets/2024/08/141723562357313.jpg!1800w)"
+                "name": "\u592a\u539f\u5e02"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    106.56519160430688,
-                    29.55283175830431
+                    112.54437501902814,
+                    37.87006835210183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u897f\u5cad\u96ea\u5c71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.2270117242986,
+                    30.70803476107428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u725b\u80cc\u5c71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.83665936042435,
+                    30.11927320702924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u909b\u5d03\u5929\u53f0\u5c71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.17031964561141,
+                    30.305502604422248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u5e73\u4e50\u53e4\u9547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.33458688065889,
+                    30.346455517236883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u84e5\u534e\u5c71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.9334966734376,
+                    31.394966574465577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u4e09\u661f\u5806\u535a\u7269\u9986"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.2204427090257,
+                    31.003771980729795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u82b1\u6c34\u6e7e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.2587697223818,
+                    30.567269006205727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u89c2\u97f3\u5ca9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.33490160453151,
+                    29.47648513511362
                 ]
             }
         },
@@ -413,6 +516,20 @@
                 "coordinates": [
                     106.56892668745675,
                     29.55412776728037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\u5c71\u57ce\u6b65\u9053",
+                "description": "[\u91cd\u5e86\u7279\u79cd\u5175\u5927\u4f5c\u6218\u4e24\u65e5\u6e38\uff1a2](https://1900.live/zhong-qing-te-chong-bing-da-zuo-zhan-liang-ri-you-2/)(https://cdn.1900.live/assets/2024/08/141723562357313.jpg!1800w)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.56519160430688,
+                    29.55283175830431
                 ]
             }
         },
